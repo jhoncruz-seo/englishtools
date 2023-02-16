@@ -19,6 +19,6 @@ Here are some tips to help you learn English:
 
 Next, I will leave you a list of websites to learn English:
 
-- <a href="http://stride.com.co">Stride</a> --> Learn specialized english for programmers 
-- <a href="openenglish.com">Open English</a> --> Learn english in general
-- <a href="preply.com">Preply</a> --> Learn english with tutors
+- <a href="https://stride.com.co">Stride</a> --> Learn specialized english for programmers 
+- <a href="https://openenglish.com">Open English</a> --> Learn english in general
+- <a href="https://preply.com">Preply</a> --> Learn english with tutors
